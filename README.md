@@ -1,1 +1,3 @@
-👋 Hi everyone, thanks for visiting my Github profile. I love to code.
+# 👋 Hi everyone
+
+Thanks for visiting my Github profile. I love to code.
